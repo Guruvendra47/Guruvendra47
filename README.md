@@ -60,8 +60,3 @@ Before moving into data engineering, I worked in escalation analytics — and th
 
 ---
 
-## 🚀 Featured Skills
-- **Data Engineering:** AWS, Snowflake, Matillion, Databricks  
-- **Programming:** Python, SQL  
-- **Analytics & BI:** Power BI, Power Query  
-- **Data Modeling, ETL/ELT, Automation, Pipeline Monitoring**  
