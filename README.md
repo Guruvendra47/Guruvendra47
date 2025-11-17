@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Guruvendra Singh  
+# 👋 Hi, I am Guruvendra Singh  
 ### Data Engineer | Python • SQL • AWS • Snowflake • Matillion | ETL Pipelines & Automation
 
 I am a data-focused professional with hands-on experience in **data engineering, analytics, and automation**, specializing in building reliable data pipelines and transforming messy data into clean, analytics-ready datasets.
