@@ -16,7 +16,7 @@ I enjoy solving problems where **clean, well-structured data leads to business i
 
 ---
 
-## 🔭 What I'm Working On
+## 🔭 What I am Working On
 - Building **real-time data pipelines** using AWS Kinesis, Lambda, Snowflake, and Snowpipe  
 - Creating **batch + CDC pipelines** with Matillion and Snowflake  
 - Implementing **data quality frameworks** using Great Expectations  
@@ -24,7 +24,7 @@ I enjoy solving problems where **clean, well-structured data leads to business i
 
 ---
 
-## 🌱 What I'm Learning
+## 🌱 What I am Learning
 - Advanced AWS services for data engineering  
 - Orchestration tools (Airflow, Matillion enhancements)  
 - Data observability and monitoring best practices  
@@ -32,7 +32,7 @@ I enjoy solving problems where **clean, well-structured data leads to business i
 
 ---
 
-## 👯 I’m Looking to Collaborate On
+## 👯 I am Looking to Collaborate On
 - Data engineering projects (ETL/ELT, Snowflake, AWS)  
 - Analytics + automation workflows  
 - Open-source data tools and frameworks  
