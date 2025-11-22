@@ -1,9 +1,9 @@
 # 👋 Hi, I am Guruvendra Singh  
 ### Data Engineer | Python • SQL • AWS • Snowflake • Matillion | ETL Pipelines & Automation
 
-I am a data-focused professional with hands-on experience in **data engineering, analytics, and automation**, specializing in building reliable data pipelines and transforming messy data into clean, analytics-ready datasets.
+I am a data-focused professional with hands-on experience in data engineering, analytics, and automation, specializing in building reliable data pipelines and transforming messy data into clean, analytics-ready datasets.
 
-My background includes several years working with **operational, financial, and analytical data**, building dashboards, improving data quality, and automating reporting workflows. Over time, I transitioned into **data engineering**, and now I design modern cloud-based data solutions using:
+My background includes several years working with operational, financial, and analytical data, building dashboards, improving data quality, and automating reporting workflows. Over time, I transitioned into data engineering, and now I design modern cloud-based data solutions using:
 
 - **Python, SQL**
 - **Snowflake, AWS (S3, Lambda, Kinesis)**
