@@ -53,10 +53,7 @@ I enjoy solving problems where **clean, well-structured data leads to business i
 
 **LinkedIn:** www.linkedin.com/in/guruvendra-singh-a61005391  
 
----
 
-## ⚡ Fun Fact
-Before moving into data engineering, I worked in escalation analytics — and that’s where I discovered how powerful clean data and automation can be in improving business performance.
 
 ---
 
