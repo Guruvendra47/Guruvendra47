@@ -1,59 +1,62 @@
-# 👋 Hi, I am Guruvendra Singh  
-### Data Engineer | Python • SQL • AWS • Snowflake • Matillion | ETL Pipelines & Automation
+# Hi, I'm Guruvendra Singh 👋
 
-I am a data-focused professional with hands-on experience in data engineering, analytics, and automation, specializing in building reliable data pipelines and transforming messy data into clean, analytics-ready datasets.
+### Data Analyst | Data Engineering | SQL • Python • Snowflake • AWS • Power BI
 
-My background includes several years working with operational, financial, and analytical data, building dashboards, improving data quality, and automating reporting workflows. Over time, I transitioned into data engineering, and now I design modern cloud-based data solutions using:
+I am a data-focused professional with 5 years of experience in data analysis, reporting, data validation, and business intelligence within the banking and financial services sector.
 
-- **Python, SQL**
-- **Snowflake, AWS (S3, Lambda, Kinesis)**
-- **Matillion ETL**
-- **Power BI**
-- **Databricks**
-- **Data modeling & pipeline automation**
+My experience includes working with large datasets, data quality validation, SQL-based analysis, operational reporting, and Power BI dashboards. I also build hands-on data engineering projects involving ETL pipelines, cloud platforms, streaming data, orchestration, and analytics.
 
-I enjoy solving problems where **clean, well-structured data leads to business impact**, whether it’s through faster dashboards, automated pipelines, or data quality frameworks.
+## Technical Skills
+
+- **Languages:** SQL, Python
+- **Data Engineering:** Apache Spark, Spark Structured Streaming, Apache Kafka, Airflow, dbt
+- **Cloud:** AWS, Azure, IBM Cloud
+- **Data Platforms:** Snowflake, MySQL, PostgreSQL, SQLite
+- **Analytics & Visualization:** Pandas, NumPy, Matplotlib, Plotly, Power BI
+- **Tools:** Git, Docker, Kubernetes, REST APIs, Jupyter Notebook
+- **Data Practices:** ETL/ELT, Data Validation, Data Quality, Data Modeling, Pipeline Automation
+
+## What I Build
+
+I work on end-to-end data projects covering:
+
+- Batch and real-time data pipelines
+- ETL/ELT workflows
+- Data warehousing and data modeling
+- Cloud data platforms
+- Streaming data processing
+- Data quality and validation
+- Business intelligence and analytics
+- Pipeline orchestration and automation
+
+## Current Focus
+
+- Real-time data processing with Kafka and Spark
+- Snowflake data engineering
+- AWS-based data pipelines
+- ETL/ELT development
+- Data quality and validation
+- Data orchestration with Airflow
+- Analytics and Power BI
+
+## Certifications
+
+- Microsoft Certified: Power BI Data Analyst Associate
+- IBM Data Analyst Professional Certificate
+- Microsoft Azure AI-900 Professional Certificate
+
+## Education
+
+- Graduate Certificate in Information Systems Business Analysis
+- Graduate Certificate in International Business Management
+- Master of Business Administration (MBA)
+
+## Connect With Me
+
+- **GitHub:** [Guruvendra47](https://github.com/Guruvendra47)
+- **LinkedIn:** [Guruvendra Singh](https://www.linkedin.com/in/guruvendra-singh-a61005391/)
+- **Email:** [guruvendra27@gmail.com](mailto:guruvendra27@gmail.com)
 
 ---
 
-## 🔭 What I am Working On
-- Building **real-time data pipelines** using AWS Kinesis, Lambda, Snowflake, and Snowpipe  
-- Creating **batch + CDC pipelines** with Matillion and Snowflake  
-- Implementing **data quality frameworks** using Great Expectations  
-- Improving query performance and optimizing Snowflake compute costs  
-
----
-
-## 🌱 What I am Learning
-- Advanced AWS services for data engineering  
-- Orchestration tools (Airflow, Matillion enhancements)  
-- Data observability and monitoring best practices  
-- Modern data stack patterns (ELT, streaming, DQ automation)
-
----
-
-## 👯 I am Looking to Collaborate On
-- Data engineering projects (ETL/ELT, Snowflake, AWS)  
-- Analytics + automation workflows  
-- Open-source data tools and frameworks  
-
----
-
-## 💬 Ask Me About
-- ETL/ELT pipeline design  
-- Snowflake performance tuning  
-- Python for automation  
-- Power BI dashboarding  
-- How to build end-to-end data projects for your portfolio  
-
----
-
-## 📫 How to Reach Me
-**Email:** guruvendra47@gmail.com 
-
-**LinkedIn:** www.linkedin.com/in/guruvendra-singh-a61005391  
-
-
-
----
-
+### Data | Engineering | Analytics | Automation
