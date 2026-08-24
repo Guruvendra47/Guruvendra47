@@ -51,4 +51,4 @@ My experience includes:
 ## Connect With Me
 
 - **LinkedIn:** [Guruvendra Singh](https://www.linkedin.com/in/guruvendra-singh-a61005391/)
-- **Email:** [guruvendra47@gmail.com](mailto:guruvendra47@gmail.com)
+- **Email:** [guruvendra27@gmail.com](mailto:guruvendra27@gmail.com)
