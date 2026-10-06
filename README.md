@@ -11,7 +11,7 @@
 
 ### 🧭 About Me
 
-I'm a data-focused professional with **5 years of experience** in data analysis, reporting, data validation, and business intelligence within the banking and financial services sector. I specialize in turning raw, messy data into validated, business-ready insights — and in building the pipelines that get it there.
+I'm a data-focused professional with **experience** in data analysis, reporting, data validation, and business intelligence within the banking and financial services sector. I specialize in turning raw, messy data into validated, business-ready insights — and in building the pipelines that get it there.
 
 - 🔍 Analyzed and validated large mortgage loan datasets using SQL, Excel, SharePoint, and MS Access to support regulatory reporting and operational decision-making
 - 📊 Developed Power BI dashboards and reporting solutions to visualize KPIs, performance metrics, and business insights
