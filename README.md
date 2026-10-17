@@ -1,6 +1,6 @@
 <h1 align="center">Guruvendra Singh</h1>
-<h3 align="center">Data Analyst | Data Engineering</h3>
-<p align="center">SQL · Python · Snowflake · AWS · Power BI</p>
+<h3 align="center">Data Analyst | Data Engineering | Business Intelligence</h3>
+<p align="center">Toronto, Ontario, Canada</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guruvendra-singh-a61005391/">LinkedIn</a> ·
@@ -10,18 +10,48 @@
 
 ---
 
-## About Me
+## About
 
-Data professional with experience in data analysis, reporting, data validation, and business intelligence within the banking and financial services sector. I specialize in turning raw, messy data into validated, business-ready insights, and in building the pipelines that deliver it.
+Data analyst with 5 years of experience in data validation, reporting, and business intelligence, primarily in banking and financial services. I started in mortgage servicing at Wells Fargo, working with large loan datasets under strict regulatory requirements, then applied the same analytical approach to manufacturing operations at Hitachi Astemo.
 
-- Analyzed and validated large mortgage loan datasets using SQL, Excel, SharePoint, and MS Access to support regulatory reporting and operational decision-making
-- Developed Power BI dashboards and reporting solutions to visualize KPIs, performance metrics, and business insights
-- Built ETL and data transformation workflows using Python, SQL, Airflow, Snowflake, and AWS through hands-on data engineering projects
-- Collaborated with cross-functional teams to improve data quality, automate processes, and support data governance initiatives
+I am now building on that foundation with cloud data engineering and applied machine learning projects, moving from analyzing data to designing the pipelines and platforms that deliver it.
 
 ---
 
-## Tech Stack
+## Featured Projects
+
+### [Financial Complaints Analytics Platform](https://github.com/Guruvendra47)
+End-to-end analytics platform for CFPB consumer complaint data, from ingestion to reporting.
+
+- Built ETL pipelines with Matillion, AWS S3, and Snowflake to clean, transform, and model complaint data
+- Delivered Power BI dashboards surfacing complaint trends and patterns
+- Focused on data quality and reporting efficiency across the full pipeline
+
+**Stack:** Matillion · AWS S3 · Snowflake · Power BI
+
+### [Orbital Intelligence Platform](https://orbital-intelligence-platform-i91bciout-guruvendra27-2443.vercel.app)
+Real-time 3D orbital visualization and risk-analytics platform tracking space objects, using public data from Celestrak, NOAA, and Launch Library.
+
+- Built on Databricks with a customized Random Forest classifier for atmospheric re-entry risk scoring
+- Implemented SGP4/SDP4 orbital propagation for tracking and visualization
+
+**Stack:** Databricks · Python · Scikit-learn · Plotly · Dash
+
+---
+
+## Experience
+
+**Production Associate (Data Analyst)**, Hitachi Astemo Canada | Apr 2024 – Mar 2025
+Built Power BI dashboards on production and inventory data and reconciled SAP MM records against production data to surface material shortages and discrepancies.
+
+**Research Remediation Analyst 3**, Wells Fargo International Solutions | Aug 2018 – Jun 2022
+Validated mortgage loan data using SQL, Excel, and MS Access for regulatory compliance. Built a VBA automation tool that cut per-transaction entry time from 2 minutes to 5 seconds, and delivered a production-ready Power BI dashboard for management.
+
+Full work history is on [LinkedIn](https://www.linkedin.com/in/guruvendra-singh-a61005391/).
+
+---
+
+## Technical Skills
 
 **Languages & Querying**
 <br>
@@ -63,43 +93,26 @@ Data professional with experience in data analysis, reporting, data validation, 
 
 ---
 
-## Featured Projects
-
-### [Financial Complaints Analytics Platform](https://github.com/Guruvendra47)
-End-to-end CFPB consumer complaint analytics platform covering ingestion through reporting.
-- Built ETL pipelines using Matillion, AWS S3, and Snowflake to clean, transform, and model complaint data
-- Delivered Power BI reports and dashboards to surface complaint trends and patterns for stakeholders
-- Improved data quality and reporting efficiency across the full pipeline
-
-### [Orbital Intelligence Platform](https://orbital-intelligence-platform-i91bciout-guruvendra27-2443.vercel.app)
-Real-time 3D orbital visualization and risk-analytics platform tracking space objects using public catalog data (Celestrak, NOAA, Launch Library).
-- Built on Databricks with a Random Forest classifier for atmospheric re-entry risk scoring
-- Implemented SGP4/SDP4 orbital propagation for tracking and visualization
-
----
-
 ## Areas of Interest
 
-Data Engineering · ETL/ELT · Data Warehousing · Real-Time Data Processing · Cloud Data Platforms · Data Quality · Business Intelligence · Data Analytics
-
+- **AI and Machine Learning:** applying ML models and AI platforms (Databricks, Azure AI Foundry) to real analytics problems, such as the re-entry risk classifier in my Orbital Intelligence Platform
+- **Data Engineering:** ETL/ELT design, data warehousing, real-time and streaming data processing, cloud data platforms
+- **Data Quality and Governance:** validation, reconciliation, and trustworthy reporting for regulated industries
+- **Business Intelligence:** turning operational data into dashboards that support decisions
 ---
 
 ## Certifications
 
 - Microsoft Certified: Power BI Data Analyst Associate
 - IBM Data Analyst Professional Certificate
-- Microsoft Azure AI-900 Professional Certificate
+- Microsoft Azure AI-900: Azure AI Fundamentals
 
 ## Education
-
-- Master of Business Administration (MBA), Bangalore University
-- Graduate Certificate in Information Systems Business Analysis, Northern College
-- Graduate Certificate in International Business Management, Northern College
+- Graduate Certificates in Information Systems Business Analysis and International Business Management, Northern College
+- MBA, Bangalore University
 
 ---
 
 ## Contact
 
-- LinkedIn: [guruvendra-singh](https://www.linkedin.com/in/guruvendra-singh-a61005391/)
-- Email: [guruvendra27@gmail.com](mailto:guruvendra27@gmail.com)
-- GitHub: [Guruvendra47](https://github.com/Guruvendra47?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/guruvendra-singh-a61005391/) · [Email](mailto:guruvendra27@gmail.com) · [GitHub](https://github.com/Guruvendra47?tab=repositories)
