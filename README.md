@@ -29,7 +29,7 @@ End-to-end analytics platform for CFPB consumer complaint data, from ingestion t
 
 **Stack:** Matillion · AWS S3 · Snowflake · Power BI
 
-### [Orbital Intelligence Platform](https://orbital-intelligence-platform-i91bciout-guruvendra27-2443.vercel.app)
+### [Orbital Intelligence Platform](https://orbital-intelligence-platform-2r98emlmr-guruvendra27-2443.vercel.app)
 Real-time 3D orbital visualization and risk-analytics platform tracking space objects, using public data from Celestrak, NOAA, and Launch Library.
 
 - Built on Databricks with a customized Random Forest classifier for atmospheric re-entry risk scoring
